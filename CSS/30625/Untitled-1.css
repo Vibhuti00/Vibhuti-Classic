@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1320px;
+    padding: 0 15px ;
+    margin: 0 auto;
+    border: black;
+}
+.card{
+ width: 200px;
+ height: 10px;
+}
+.card1{
+    
+}
+.card2{
+    
+}
+.card3{
+    
+}
+.card4{
+    
+}
+.highlight#c6e3fd .boxshadow h5 h6{
+    background-color: #E6E6FA;
+    box-shadow: 5px 10px 10px 5px color(#c6e3fd);
+}
+.underline .boxborder h5 h6{
+    text-decoration: underline;
+}
+.fontfamily p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.aligncenter .color h1 h2{
+    text-align: center;
+    color: #3b3b3b;
+}

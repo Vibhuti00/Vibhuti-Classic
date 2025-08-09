@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1320px;
+    padding: 8px 15px ;
+    margin: 5px auto;
+    border: black;
+}
+.card{
+    padding: 50px 30px;
+    border: 1px solid black;
+}
+h5 h6{
+    background-color: #E6E6FA;
+    box-shadow: 5px 10px 10px 5px color(#c6e3fd);
+}
+h5 h6{
+    text-decoration: underline;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 h2{
+    text-align: center;
+    color: #3b3b3b;
+}

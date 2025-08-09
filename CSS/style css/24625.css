@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.continer{
+    max-width: ;
+    padding: ;
+    margin: ;
+}
+.h2{
+    display: inline;
+}
+.h4{
+    display: inline;
+}
+.span{
+    display: block;
+}
+.button{
+    background: ;
+    padding: ;
+    border-radius: ;
+    text-decoration: ;
+    font-size: ;
+    font-family: ;
+    display: inline-block;
+}
+.card{
+    box-sizing: ;
+    width: ;
+    margin: ;
+    padding: ;
+    text-align: ;
+}
+.row{}
+.col{}
